@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+body{
+    font-family: sans-serif;
+    background-color: #24353F;
+}
+h1{
+    color: #1B8DA7;
+}
+
+.logbtn{
+border-color: #1B8DA7;
+color: #1B8DA7;
+}
+input{
+    color:white;
+}
